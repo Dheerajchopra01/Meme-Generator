@@ -1,5 +1,5 @@
 # Meme-Generator
-This is React.js based Meme Generator project. You can generator your custom Meme in 10 seconds.
+This is react.js based meme generator tool for digital marketing companies. You can generator your custom Meme in 10 seconds
 
 Tech used - HTML5, CSS3, Javascript, React.js. 
 
